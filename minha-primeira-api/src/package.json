@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto nodejs",
+  "main": "src/server.js",
+   "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  
+  "author": "Samuel Dantas",
+  "license": "ISC"
+ 
+}
